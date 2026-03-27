@@ -66,7 +66,11 @@ Due to the above:
 
 ## Recommendation
 
-For all new systems and critical applications, use **modern, noise-resilient communication methods** supported by the TORQ ecosystem.
+For improved reliability, NODO offers shielded cable solutions for systems such as Ronin 2 and other DJI products that support S.Bus via D.Bus connectors.
+
+These cables are designed to reduce susceptibility to electrical noise and improve signal integrity compared to the legacy unshielded design described above.
+
+🔗 [Inertia Wheels RX to Ronin 2 Cable](https://shop.nodo.film/collections/popular-accessories/products/inertia-wheels-rx-to-ronin-2-cable)
 
 ---
 
